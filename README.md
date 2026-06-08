@@ -51,12 +51,11 @@
 ---
 
 ## 📫 Connect With Me
-<p align="center">
+<p align="center"><a href="https://darshgami.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome">
+  </a><br />
+  
   <a href="https://github.com/darshgami">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github">
-  </a>
-
-  <a href="https://darshgami.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome">
   </a>
 </p>
