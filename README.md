@@ -51,6 +51,9 @@
 ---
 
 ## 📫 Connect With Me
+<a href="https://darshgami.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome">
+</a>
 
 <p align="center">
   <a href="https://github.com/darshgami"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"></a>
